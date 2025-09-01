@@ -1,2 +1,6 @@
 # Flipkart_NLP
-Project focuses on analyzing product reviews from Flipkart to uncover insights into customer sentiment, product performance, and review patterns.
+Utilized Python for data analysis and visualization
+
+Performed data cleaning & preprocessing of raw review data
+
+Conducted exploratory data analysis (EDA) to understand sentiment trends
